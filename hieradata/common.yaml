@@ -1,0 +1,5 @@
+---
+classes:
+  - motd
+
+motd::content: "OLF 2016 Demo!\n"
