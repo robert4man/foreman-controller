@@ -1,2 +1,5 @@
 ---
+classes:
+  - apache
+
 motd::content: "Client Node\n"
